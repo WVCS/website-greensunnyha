@@ -1,3 +1,15 @@
+img {
+  width: 70%;
+  border: #247A1A 2px dotted;
+}
 body {
-
+  background-color: #142A1A;
+}
+h2 {
+  color: #44BA6A;
+  text-decoration: wavy 3px #245A1A underline;
+  text-shadow: 0 0 7px white
+}
+h2:hover {
+  text-shadow: 0 0 23px purple;
 }
