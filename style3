@@ -1,0 +1,15 @@
+iframe {
+  width: 30%;
+  border: #247A1A 2px dotted;
+}
+body {
+  background-color: #50C878;
+}
+h2 {
+  color: #00A0C0;
+  text-decoration: wavy 2px #FDFD96 underline;
+  text-shadow: 0 0 7px white
+}
+h2:hover {
+  text-shadow: 0 0 23px yellow;
+}
