@@ -1,15 +1,15 @@
-img {
-  width: 70%;
+iframe {
+  width: 30%;
   border: #247A1A 2px dotted;
 }
 body {
-  background-color: #142A1A;
+  background-color: #50C878;
 }
 h2 {
-  color: #44BA6A;
-  text-decoration: wavy 3px #245A1A underline;
+  color: #00A0C0;
+  text-decoration: wavy 2px #FDFD96 underline;
   text-shadow: 0 0 7px white
 }
 h2:hover {
-  text-shadow: 0 0 23px purple;
+  text-shadow: 0 0 23px yellow;
 }
