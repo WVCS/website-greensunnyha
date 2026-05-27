@@ -13,3 +13,31 @@ h2 {
 h2:hover {
   text-shadow: 0 0 23px yellow;
 }
+
+/* Style the navigation bar container */
+.navbar {
+  background-color: #006400; /* DarkGreen hex code */
+  overflow: hidden; /* Ensures the background covers the floated elements */
+}
+
+/* Remove default list styling */
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Modern way to align items horizontally */
+}
+
+/* Style individual list items and links */
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+/* Add a hover effect for better user experience */
+.navbar li a:hover {
+  background-color: #004d00; /* Slightly darker green on hover */
+}
